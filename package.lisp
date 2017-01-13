@@ -4,6 +4,7 @@
     :losh
     :iterate
     :cl-arrows
+    :ggp
     :temperance
     :els.quickutils)
   (:export

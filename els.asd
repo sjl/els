@@ -7,7 +7,7 @@
   :version "1.0.0"
 
   :depends-on (:iterate
-               :cl-losh
+               :losh
                :cl-arrows
                :cl-ggp
                :temperance)
